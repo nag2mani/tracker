@@ -4,6 +4,8 @@ A premium, dark-mode fintech dashboard for tracking personal spending and
 splitting group bills — with a Splitwise-style debt-simplification engine.
 All state lives in LocalStorage, so it works instantly with zero backend.
 
+<img width="1164" height="772" alt="Screenshot 2026-06-12 at 7 44 00 PM" src="https://github.com/user-attachments/assets/ded16ade-e4f2-44a2-bd3a-72a2f16676a5" />
+
 ## Run it
 
 ```bash
